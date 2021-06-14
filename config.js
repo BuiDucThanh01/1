@@ -4,7 +4,7 @@ const CONFIG = {
     Mà sao em cứ đi nhầm đường
     Lạc vào tim anh lẻ loi
     Đằng sau chữ yêu đây là thương 😊`,
-    btnIntro: 'A hi hi( Chúc e luôn vui vẻ xinh gái 😁 và đặc biệt là thi siêu tốt nha 😉)',
+    btnIntro: 'A hi hi 😁',
     title: 'Dù ai có làm em buồn hay lúc khó khăn không có ai giúp bị bơ vơ 1 mình ',
     desc: 'Thì anh luôn bên cạnh và an ủn em giúp em vượt qua khó khăn chỉ cẩn em đc yên tâm vui vẻ 😇',
     btnYes: 'Rất Quý Anh Thành 😊',
