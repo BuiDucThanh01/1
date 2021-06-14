@@ -1,9 +1,9 @@
 const CONFIG = {
     introTitle: 'Tặng Hà !',
     introDesc: `Trái đất vốn lạ thường
-    Mà sao em cứ đi nhầm đường/n
-    Lạc vào tim anh lẻ loi/n
-    Đằng sau chữ yêu đây là thương`,
+    Mà sao em cứ đi nhầm đường
+    Lạc vào tim anh lẻ loi`,
+    introDesc: `Đằng sau chữ yêu đây là thương`,
     btnIntro: 'Ahihi',
     title: 'Dù sau này ai làm em buồn khó khăn ko biết giải quyết lẻ loi 1 mình',
     desc: 'Thì anh vẫn sẽ luôn bên em an ủn và giúp em vượt qua khó khăn mong em luôn vui vẻ 😙 ',
