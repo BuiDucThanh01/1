@@ -1,19 +1,19 @@
 const CONFIG = {
-    introTitle: 'Babe à!',
+    introTitle: 'Hà ơi!(Tặng em)',
     introDesc: `Trái đất vốn lạ thường
     Mà sao em cứ đi nhầm đường
     Lạc vào tim anh lẻ loi
-    Đằng sau chữ yêu đây là thương`,
-    btnIntro: 'hihi',
-    title: 'Phải chăng em đã yêu ngay từ cái nhìn đầu tiên 😙',
-    desc: 'Phải chăng em đã say ngay từ lúc thấy nụ cười ấy ',
-    btnYes: 'Vẫn cứ là thích anh <33',
-    btnNo: 'Không, Anh trai à :3',
-    question:'Trên thế giới hơn 7 tỉ người mà sao em lại yêu anh <3',
-    btnReply: 'Gửi cho anh <3',
-    reply: 'Yêu thì yêu mà không yêu thì yêu <33333333',
-    mess: 'Anh biết mà 🥰. Yêu em nhiều nhiều 😘😘',
-    messDesc: 'Tối nay 7h anh qua đón nhé công chúa.',
-    btnAccept: 'Okiiiii lun <3',
-    messLink: 'http://fb.com' //link mess của các bạn. VD: https://m.me/nam.nodemy
+    Đằng sau chữ yêu đây là thương 😊`,
+    btnIntro: 'A hi hi( Chúc e luôn vui vẻ xinh gái 😁 và đặc biệt là thi siêu tốt nha 😉)',
+    title: 'Dù ai có làm em buồn hay lúc khó khăn không có ai giúp bị bơ vơ 1 mình ',
+    desc: 'Thì anh luôn bên cạnh và an ủn em giúp em vượt qua khó khăn chỉ cẩn em đc yên tâm vui vẻ 😇',
+    btnYes: 'Rất Quý Anh Thành 😊',
+    btnNo: 'Rất Ghét Anh Thành😢',
+    question:'Và hứa không chán ghét hay quên anh Thành em có đồng ý không ?',
+    btnReply: 'Gửi cho anh :>',
+    reply: 'Ấn vào nút gửi cho anh em nhé :))',
+    mess: 'Trả lời anh trong messenger nha',
+    messDesc: 'Một lần nữa xin chúc em luôn vui vẻ và thi đạt điểm cao 😁',
+    btnAccept: 'Làm Wed tặng Hà 😉 Giúp em giải trí và thi tốt hơn 😍  ',
+    messLink: 'https://www.facebook.com/profile.php?id=100010045690226
 }
