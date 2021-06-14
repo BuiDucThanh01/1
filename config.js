@@ -6,14 +6,14 @@ const CONFIG = {
     Đằng sau chữ yêu đây là thương`,
     btnIntro: 'Ahihi',
     title: 'Dù sau này ai làm em buồn khó khăn ko biết giải quyết lẻ loi 1 mình thì đừng buồn 😉',
-    desc: 'Thì nhớ là anh vẫn sẽ luôn bên em an ủn và giúp em vượt qua khó khăn mong em luôn vui vẻ sống hạnh phúc 😙',
+    desc: 'Thì nhớ là anh vẫn sẽ luôn bên em an ủn và giúp em vượt qua khó khăn mong em luôn vui vẻ sống hạnh phúc 😙 anh xin hứa danh dự',
     btnYes: 'Em cảm ơn nhiều',
     btnNo: 'Rất ghét anh Thành',
-    question:'Trên thế giới hơn 7 tỉ người mà sao em lại yêu anh <3',
-    btnReply: 'Gửi cho anh <3',
-    reply: 'Yêu thì yêu mà không yêu thì yêu <33333333',
-    mess: 'Anh biết mà 🥰. Yêu em nhiều nhiều 😘😘',
-    messDesc: 'Tối nay 7h anh qua đón nhé công chúa.',
-    btnAccept: 'Okiiiii lun <3',
-    messLink: 'http://fb.com' //link mess của các bạn. VD: https://m.me/nam.nodemy
+    question:'Và sau này dù có sao thì đừng có ghét hay bơ anh Thành nhé ',
+    btnReply: 'Gửi cho anh :>',
+    reply: 'Nhắn câu trả lời vào messenger của anh nhé :))',
+    mess: 'Chúc em luôn vui vẻ thi được điểm cao 😊',
+    messDesc: 'Mong Wed giúp e giải trí thi tốt hơn',
+    btnAccept: 'em cám ơn Anh cũng thế :))',
+    messLink: 'https://www.facebook.com/profile.php?id=100010045690226
 }
