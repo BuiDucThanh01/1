@@ -15,5 +15,5 @@ const CONFIG = {
     mess: 'Trả lời anh trong messenger nha',
     messDesc: 'Một lần nữa xin chúc em luôn vui vẻ và thi đạt điểm cao 😁',
     btnAccept: 'Làm Wed tặng Hà 😉 Giúp em giải trí và thi tốt hơn 😍  ',
-    messLink: 'https://www.facebook.com/profile.php?id=100010045690226
+    messLink: 'https://www.facebook.com/profile.php?id=100010045690226',
 }
